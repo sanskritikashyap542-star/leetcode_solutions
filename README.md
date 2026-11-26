@@ -16,4 +16,12 @@ my leetcode_solution
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
