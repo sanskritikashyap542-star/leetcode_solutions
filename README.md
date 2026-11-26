@@ -6,6 +6,7 @@ my leetcode_solution
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -15,6 +16,7 @@ my leetcode_solution
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -24,4 +26,8 @@ my leetcode_solution
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
