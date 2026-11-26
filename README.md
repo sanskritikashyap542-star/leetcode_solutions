@@ -21,6 +21,7 @@ my leetcode_solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Two Pointers
 |  |
@@ -30,4 +31,8 @@ my leetcode_solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
