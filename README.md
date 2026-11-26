@@ -6,6 +6,7 @@ my leetcode_solution
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
