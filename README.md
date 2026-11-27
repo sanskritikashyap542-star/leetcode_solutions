@@ -10,6 +10,7 @@ my leetcode_solution
 | [0009-palindrome-number](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -65,4 +66,9 @@ my leetcode_solution
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
