@@ -26,6 +26,7 @@ my leetcode_solution
 | [0014-longest-common-prefix](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -58,4 +59,8 @@ my leetcode_solution
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
