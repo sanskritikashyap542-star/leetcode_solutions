@@ -9,6 +9,7 @@ my leetcode_solution
 | [0002-add-two-numbers](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -27,6 +28,7 @@ my leetcode_solution
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
