@@ -11,6 +11,7 @@ my leetcode_solution
 | [0013-roman-to-integer](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -98,4 +99,12 @@ my leetcode_solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanskritikashyap542-star/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
